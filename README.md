@@ -37,19 +37,17 @@ Clone o repositório:
 
 Bash
 git clone https://github.com/SEU_USUARIO/NOME_DO_REPO.git
-Instale as dependências:
 
+Instale as dependências:
 Bash
 npm install
 
 Abra o Cypress:
-
-Bash
+Bash:
 npx cypress open
 
 Ou execute em modo headless (terminal):
-
-Bash
+Bash:
 npx cypress run
 
 
