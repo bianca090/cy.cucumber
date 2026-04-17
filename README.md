@@ -41,10 +41,12 @@ Instale as dependências:
 
 Bash
 npm install
+
 Abra o Cypress:
 
 Bash
 npx cypress open
+
 Ou execute em modo headless (terminal):
 
 Bash
