@@ -1,8 +1,8 @@
-  Cypress + Cucumber: Automação de Testes SauceDemo
+##  Cypress + Cucumber: Automação de Testes SauceDemo
   
 Este projeto foi desenvolvido para fins de aprendizado, com o objetivo de demonstrar a integração do Cypress com o preprocessor Cucumber (BDD) para automação de testes de interface.
 
-## projeto rodando no cypress
+**projeto rodando no cypress**
 <img width="1893" height="943" alt="image" src="https://github.com/user-attachments/assets/b27f8c28-e1a9-4d9e-bf1f-e830041e7de0" />
 
 ## 🚀 Tecnologias Utilizadas
@@ -51,5 +51,5 @@ Bash
 npx cypress run
 
 
-Feito por: Bianca Lira 
-Linkedin: https://www.linkedin.com/in/bianca-gomes-de-lira/
+**Feito por: Bianca Lira**
+**Linkedin:** https://www.linkedin.com/in/bianca-gomes-de-lira/
