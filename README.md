@@ -11,7 +11,9 @@
 Este projeto foi desenvolvido para fins de aprendizagem, com o objetivo de demonstrar a integração do Cypress com o preprocessor Cucumber (BDD) para automação de testes de interface.
 
 ### Projeto rodando no Cypress
-![Projeto rodando no Cypress](<img width="1893" height="943" alt="image" src="https://github.com/user-attachments/assets/b27f8c28-e1a9-4d9e-bf1f-e830041e7de0" />)
+![Projeto rodando no Cypress](
+
+<img width="1893" height="943" alt="image" src="https://github.com/user-attachments/assets/b27f8c28-e1a9-4d9e-bf1f-e830041e7de0" /> )
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -35,15 +37,6 @@ O foco principal foi a validação do fluxo de login:
   * **Dado** que estou na página de login.
   * **Quando** eu valido meu e-mail e senha.
   * **Então** eu tenho um login com sucesso.
-
-## 🛠️ Como rodar o projeto
-
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPO.git](https://github.com/SEU_USUARIO/NOME_DO_REPO.git)
-
-
-
 
 **Feito por: Bianca Lira**
 **Linkedin:** https://www.linkedin.com/in/bianca-gomes-de-lira/
