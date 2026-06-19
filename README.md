@@ -39,4 +39,5 @@ O foco principal foi a validação do fluxo de login:
   * **Então** eu tenho um login com sucesso.
 
 **Feito por: Bianca Lira**
+
 **Linkedin:** https://www.linkedin.com/in/bianca-gomes-de-lira/
